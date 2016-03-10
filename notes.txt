@@ -1,1 +1,7 @@
+3/10/16
 
+*** This example does not use JSON ***
+*** I didn't realize this until I was finished ***
+
+This project does show Java object serialization
+Writes objests to binary file, and when the output is presented it is readable 
